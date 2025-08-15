@@ -1,0 +1,1 @@
+A Java implementation of a Red-Black Tree, a self-balancing binary search tree (BST) that ensures optimal performance for insertions, deletions, and lookups. This implementation extends basic BST operations with automatic balancing through rotations and color flips, preserving the Red-Black Tree properties after each insertion.
