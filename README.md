@@ -29,6 +29,3 @@ Built with **Spring Boot (Java)** for the backend and **React.js** for the front
 | **Database** | In-memory (tree structure) |
 
 ---
-
-## 🧩 Architecture Overview
-
