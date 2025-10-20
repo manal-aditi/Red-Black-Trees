@@ -1,4 +1,4 @@
-#Red-Black Tree Visualizer & Task Scheduler
+# Red-Black Tree Visualizer & Task Scheduler
 
 **Interactive Java + React project** combining data structure visualization with practical task scheduling.  
 Built with **Spring Boot (Java)** for the backend and **React.js** for the frontend, this project demonstrates the usage of algorithms, system design, and full-stack development.
